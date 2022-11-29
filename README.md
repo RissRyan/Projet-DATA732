@@ -1,2 +1,4 @@
 # Projet-DATA732
-Projet DATA Python
+Projet DATA732 Python
+
+Le but de ce projet est d'analyser/data visualiser un corpus d'articles à tendance complotiste ou ayant des thèses polémiques.
